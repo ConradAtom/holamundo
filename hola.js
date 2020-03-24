@@ -11,3 +11,5 @@ var objeto = {
     }
 
 }
+//Nueva linea de codigo creo un vector
+var vector = ["Nombre", "nombre2"];
